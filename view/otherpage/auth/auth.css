@@ -1,0 +1,48 @@
+body{
+    text-decoration: none;
+    margin-right: 10px;
+    padding: 0;
+    font-family: Calibri;
+	text-align: center;
+}
+
+
+
+#text2 {
+	padding-top:50px;
+	font-size:22px;
+}
+
+#phone{
+	color:grey;
+	padding-top:10px;
+	font-size:30px;
+}
+
+#test-1-fpn1{
+	color:grey;
+}
+#test-1-fps1{
+	color:grey;
+	text-align:center;
+	font-size:30px;
+}
+
+
+.test-1-fbs1{
+	text-decoration:none;
+	font-size:20px;
+	background: transparent;
+	border:none;
+}
+#button
+{
+	margin-top:20px;
+}
+
+.test-1-fbs2{
+	text-decoration:none;
+	font-size:20px;
+	background: transparent;
+	border:none;
+}
